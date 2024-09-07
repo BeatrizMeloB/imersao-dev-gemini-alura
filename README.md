@@ -13,15 +13,15 @@ Quer saber mais sobre a história e cultura negra no Brasil? Aqui você encontra
 
 **Tecnologias Utilizadas:**
 
-1.**HTML**: A estrutura básica da página.
-2:**CSS**: Estiliza a página, deixando-a bonita e fácil de usar.
-3:**JavaScript**: Faz a mágica acontecer! Responsável pela busca, exibição dos resultados e interação com o usuário.
+1. **HTML**: A estrutura básica da página.
+2. **CSS**: Estiliza a página, deixando-a bonita e fácil de usar.
+3. **JavaScript**: Faz a mágica acontecer! Responsável pela busca, exibição dos resultados e interação com o usuário.
 
 **Como usar este projeto:**
 
-1.**Clone o repositório**: Faça um clone deste repositório para o seu computador.
-2.**Abra o arquivo index.html**: Abra o arquivo index.html em seu navegador para ver a aplicação funcionando.
-3.**Divirta-se explorando!** Comece a sua jornada pela história afro-brasileira.
+1. **Clone o repositório**: Faça um clone deste repositório para o seu computador.
+2. **Abra o arquivo index.html**: Abra o arquivo index.html em seu navegador para ver a aplicação funcionando.
+3. **Divirta-se explorando!** Comece a sua jornada pela história afro-brasileira.
 
 **Contribua com este projeto!**
 
@@ -31,7 +31,7 @@ Este projeto é open-source, o que significa que você pode contribuir com ele! 
 
 **Observações:**
 
-1.**Dados:** Os dados utilizados neste projeto são fictícios e servem apenas para fins ilustrativos.
-2.**Melhorias futuras:** Este é um projeto em constante desenvolvimento. No futuro, planejamos adicionar novas funcionalidades, como filtros por estado, categoria e mais.
+1. **Dados:** Os dados utilizados neste projeto são fictícios e servem apenas para fins ilustrativos.
+2. **Melhorias futuras:** Este é um projeto em constante desenvolvimento. No futuro, planejamos adicionar novas funcionalidades, como filtros por estado, categoria e mais.
 
 #histórianegra #culturaafrobrasileira #programação #webdev #open-source
