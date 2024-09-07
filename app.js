@@ -33,6 +33,7 @@ function pesquisar() {
         // Se título includes campoPesquisa
         if (titulo.includes(campoPesquisa) || descricao.includes(campoPesquisa) || tags.includes(campoPesquisa) || cidade.includes(campoPesquisa) || estado.includes(campoPesquisa)) {
             // Cria um novo elemento
+            // As linhas de código relacionadas a inserção de imagens e mapas foram feitas com auxílio do Google Gemini, já os links dos mapas no arquivo Dados.js foram extraídos da ferramenta Embed do Notion.
             resultados += `
             <div class="item-resultado">
                 <h2>${dado.titulo}</h2>
