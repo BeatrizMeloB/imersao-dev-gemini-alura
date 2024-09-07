@@ -11,6 +11,16 @@ Quer saber mais sobre a história e cultura negra no Brasil? Aqui você encontra
 2. **Explore**: Cada resultado da pesquisa te leva a uma página com informações detalhadas, incluindo fotos, mapas e links para saber mais.
 3. **Descubra**: Navegue por diferentes categorias e explore a rica história da cultura afro-brasileira.
 
+**Lugares listados até o momento**
+1. Engenho Monjope
+2. Igreja de Nossa Senhora dos Homens Pretos
+3. Cruz do Patrão
+4. Terreiro Casa Branca do Engenho Velho
+5. Cais do Valongo
+6. Pedra do Sal
+7. Minas do Palácio Velho
+8. Quilombo de Rodrigues
+
 **Tecnologias Utilizadas:**
 
 1. **HTML**: A estrutura básica da página.
