@@ -6,7 +6,7 @@ let dados = [
         estado : "Pernambuco",
         cidade : "Igarassu",
         imagem : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcR-8ZK58UpO9GUc0jYlqe9EDnjhyHCyCZao2Z1DDWP3b87hRbI94JaTy0MqruUDYFoTuxYLa4UipHv-veg0vRDvwbvmjBm-xA9yS0-QyCOBC4gliKFSrsJv19KdT8AjQYubw9VNoe2E/s1600/engenhomonjope.jpg",
-        mapa : "https://www.google.com/maps/embed/v1/place?key=AIzaSyCNwCbz1CjCScdV_qOyeAZfafYUHRKmtNA&q=Engenho+Monjope&center=-7.8638303,-34.9180244&maptype=satellite&zoom=17",
+        mapa : " ",
         tags : "Engenho, Açúcar, Lugar de Consciência"
     },
     {
@@ -16,7 +16,7 @@ let dados = [
         estado : "Pernambuco",
         cidade : "Olinda",
         imagem : "https://sanctuaria.art/wp-content/uploads/2014/12/img_9627.jpg",
-        mapa : "https://www.google.com/maps/embed/v1/place?key=AIzaSyCNwCbz1CjCScdV_qOyeAZfafYUHRKmtNA&q=Igreja+de+Nossa+Senhora+do+Ros%C3%A1rio+dos+Homens+Pretos&center=-8.0101767,-34.8536992&maptype=satellite&zoom=17",
+        mapa : " ",
         tags : "Igreja Católica, Sincretismo, Maracatu"
     },
     {
@@ -26,7 +26,7 @@ let dados = [
         estado : "Pernambuco",
         cidade : "Recife",
         imagem : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOE-4J50bh7qIYACn6yM8QjjlTe5XSkOOG4RSiJ90fo3VewsS8gn7UOHud6Yv77ZKwJy-ofHTzL4Bi5yI3PbMAJYWsYljxRoY5thErBORnI1MUhMR-BfkQC45o1zozLL6tW7PmXJw63sa2/w1200-h630-p-k-no-nu/GOPR0422.JPG",
-        mapa : "https://www.google.com/maps/embed/v1/place?key=AIzaSyCNwCbz1CjCScdV_qOyeAZfafYUHRKmtNA&q=Cruz+do+Patr%C3%A3o+-+Recife+-+Pernambuco&center=-8.047286,-34.8724403&maptype=satellite&zoom=17",
+        mapa : " ",
         tags : "Monumento, Religiões Afro-brasileiras, Cemitério, Lugar de Consciência"
     },
     {
@@ -36,7 +36,7 @@ let dados = [
         estado : "Bahia",
         cidade : "Salvador",
         imagem : "https://cadernobaiano.com.br/wp-content/uploads/2024/09/Imagem-do-WhatsApp-de-2024-09-05-as-14.24.54_0159697f.jpg",
-        mapa : "https://www.google.com/maps/embed/v1/place?key=AIzaSyCNwCbz1CjCScdV_qOyeAZfafYUHRKmtNA&q=Terreiro+Casa+Branca&center=-12.9972222,-38.4948515&maptype=satellite&zoom=17",
+        mapa : " ",
         tags : "Terreiro, Religiões Afro-brasileiras"
     },
     {
@@ -46,7 +46,7 @@ let dados = [
         estado : "Rio de Janeiro",
         cidade : "Rio de Janeiro",
         imagem : "https://diariodorio.com/wp-content/uploads/2019/11/Cais-do-Valongo-1-881x420.jpg",
-        mapa : "https://www.google.com/maps/embed/v1/place?key=AIzaSyCNwCbz1CjCScdV_qOyeAZfafYUHRKmtNA&q=Cais+do+Valongo&center=-22.8966195,-43.1897557&maptype=satellite&zoom=17",
+        mapa : " ",
         tags : "Cais, Porto, Tráfico de Escravos"
     },
     {
@@ -56,7 +56,7 @@ let dados = [
         estado : "Rio de Janeiro",
         cidade : "Rio de Janeiro",
         imagem : "https://odia.ig.com.br/_midias/jpg/2019/11/17/1200x670/1_img_0779-14310271.jpg",
-        mapa : "https://www.google.com/maps/embed/v1/place?key=AIzaSyCNwCbz1CjCScdV_qOyeAZfafYUHRKmtNA&q=Pedra+do+Sal&center=-22.8979788,-43.1879009&maptype=satellite&zoom=17",
+        mapa : " ",
         tags : "Quilombo, Samba, Religiões Afro-brasileiras"
     },
     {
@@ -66,7 +66,7 @@ let dados = [
         estado : "Minas Gerais",
         cidade : "Ouro Preto",
         imagem : "https://www.revistamais.com/ckeditor_assets/pictures/2209/content_13.jpg?1491485275",
-        mapa : "https://www.google.com/maps/embed/v1/place?key=AIzaSyCNwCbz1CjCScdV_qOyeAZfafYUHRKmtNA&q=Minas+Do+Pal%C3%A1cio+Velho&center=-20.3859933,-43.5014751&maptype=satellite&zoom=17",
+        mapa : " ",
         tags : "Mina, Ouro"
     },
     {
@@ -76,7 +76,7 @@ let dados = [
         estado : "Minas Gerais",
         cidade : "Brumadinho",
         imagem : "https://brazilfoundation.org/wp-content/uploads/2019/07/31052273_222071058546444_7221440952160747520_n.jpg",
-        mapa : "https://www.google.com/maps/embed/v1/place?key=AIzaSyCNwCbz1CjCScdV_qOyeAZfafYUHRKmtNA&q=Rodrigues+Comunidade+Quilombola&center=-20.2762688,-44.0928877&maptype=satellite&zoom=17",
+        mapa : " ",
         tags : "Quilombo"
     }
 ]
